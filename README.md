@@ -1,6 +1,9 @@
 # 📊 Data Program Survey Analysis - Power BI Dashboard  
 ![Data Survey](https://github.com/user-attachments/assets/e6b0c517-c7de-471d-bae3-6fe1ce527ea1)
 
+## Dataset Used
+- <a href = "">Report_Chocolate_Sale_2_Dataset</a>
+
 
 ## 📌 Overview  
 This Power BI project presents an **interactive analysis of a Data Industry survey**, covering **income, workplace satisfaction, programming language salaries, and job entry difficulty**.  
